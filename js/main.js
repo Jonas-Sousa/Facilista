@@ -21,11 +21,11 @@ if(listaRecuperada) {
 
 
 form.addEventListener("submit", (evento) => {
-    evento.preventDefault()
-    salvarItem()
-    exibirItens()
-    itensInput.focus()
-})
+    evento.preventDefault();
+    salvarItem();
+    exibirItens();
+    itensInput.focus();
+});
 
 const salvarItem = () => {
     let comprasItem = itensInput.value
@@ -106,5 +106,4 @@ function exibirItens() {
 atualizaLocalStorage()
 
 }
-
 
