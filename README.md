@@ -14,8 +14,3 @@ Nosso site tem o intuito de facilitar a organização, otimizando o tempo na rea
 
 ---
 
-## ⚙ Servidor 
-
-parte do bancos de dados (backend) : 
-
-link: https://github.com/jonathanfalcao/FaciListas-API
